@@ -1,0 +1,29 @@
+/* CSS BY Troy Mullins */
+/* IMPORTED FONTS */
+/* CSS REST */
+/* ROOT VARIABLES */
+/*  GLOBAL STYLES*/
+main {
+    background-color: aquamarine;
+}
+
+/* MEDIA QUERY (medium) */
+@media screen and (min-width: 725px){
+    main {
+        background-color: aqua;
+    }
+}
+
+/* MEDIA QUERY (large) */
+@media screen and (min-width: 900px){
+    main {
+        background-color: mediumseagreen;
+    }
+}
+
+/* MEDIA QUERY (xl) */
+@media screen and (min-width: 1050px){
+    main {
+        background-color: grey;
+    }
+}
